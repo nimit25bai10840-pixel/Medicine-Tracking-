@@ -1,4 +1,5 @@
 **Medicine-tracking**
+
 This project is a console-based application program developed in Python designed to simulate a basic inventory management system for a small pharmacy . It serves as a practical demonstration of fundamental programming concepts, including data structures, modular programming using functions, and persistent data storage through file handling. Medicine Inventory Tracker For screenshots, kindly refer the screenshotsbranch of repository Project Overview
 
 The Medicine Inventory Tracker is a simple, console-based application built in Python 3 designed for managing medical stock. This project demonstrates core programming concepts, including modular function design, persistent file I/O, and robust input validation using if/else conditional logic. It is ideal for small clinics or pharmacies needing a straightforward stock management solution.
